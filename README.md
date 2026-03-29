@@ -1,2 +1,2 @@
 # Git-Demo
-Use for work with git and github
+Use for work with git and github.
